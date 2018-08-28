@@ -1,6 +1,6 @@
 # puremagic
 
-A pure lua module that detects the mime type of common image file based on their contents, only PNG/GIT/WEBP/JPEG.
+A pure lua module that detects the mime type of common image file based on their contents, only PNG/GIF/WEBP/JPEG supported.
 
 Tested on Lua 5.1 and Luajit 2.0.
 
